@@ -1,0 +1,41 @@
+.areas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.loginForm {
+    background-color: antiquewhite;
+    border: solid 1px black;
+    width: fit-content;
+    padding: 15px;
+}
+
+.loginArea {
+    margin: 10px;
+}
+
+.registerForm {
+    background-color: antiquewhite;
+    border: solid 1px black;
+    width: fit-content;
+    padding: 15px;
+}
+
+.registerArea {
+    margin: 10px;
+}
+
+.inputArea {
+    padding: 5px;
+}
+
+.submitButton {
+    background-color: purple;
+    border: solid 1px black;
+    border-radius: 15px;
+    color: wheat;
+    height: 30px;
+    width: 100px; 
+}
